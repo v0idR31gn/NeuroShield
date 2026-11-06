@@ -154,7 +154,11 @@ It does not guarantee complete protection against all AI threats. Always validat
 
 ## 📄 License
 
-No open-source license has been specified yet.
+## 📄 License
+
+You are permitted to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, subject to the terms and conditions of the license.
+
+For more details, please refer to the LICENSE file included in this repository.
 
 ---
 
